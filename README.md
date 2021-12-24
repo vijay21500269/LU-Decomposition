@@ -47,8 +47,9 @@ print(x)
 
 
 ## Output:
-![lu decomposition](https://github.com/vijay21500269/LU-Decomposition/blob/main/Screenshot%20(4).png?raw=true)
-![lu decomposition]()
+Program to find the LU Decomposition of a matrix.
+![lu decomposition](https://github.com/vijay21500269/LU-Decomposition/blob/main/Screenshot%20(4).png?raw=true)   Program to solve a matrix using LU decomposition.
+![lu decomposition](https://github.com/vijay21500269/LU-Decomposition/blob/main/Screenshot%20(5).png?raw=true)
 
 
 ## Result:
