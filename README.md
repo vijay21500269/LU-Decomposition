@@ -47,6 +47,7 @@ print(x)
 
 
 ## Output:
+![lu decomposition](https://github.com/vijay21500269/LU-Decomposition/blob/main/Screenshot%20(4).png?raw=true)
 ![lu decomposition]()
 
 
