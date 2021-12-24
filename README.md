@@ -15,11 +15,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 ```
-/*
+
 Program to find the LU Decomposition of a matrix.
 Developed by: R.Vijay
 RegisterNumber: 21500269
-*/
+
 ```
 ~~~
 import numpy as np
@@ -31,12 +31,11 @@ print(U)
 ~~~
 ~~~
 ```
-/*
-'''Program to solve a matrix using LU decomposition.
+
+Program to solve a matrix using LU decomposition.
 Developed by: R.Vijay
 RegisterNumber: 21500269
-'''
-*/
+
 ```
 # To print X matrix (solution to the equations)
 import numpy as np
